@@ -1,12 +1,12 @@
-#####################################
+
 Author: Lucas Shea
 
-#####################################
-#
+
+
 # Python version:
 requires-python = ">= 3.11"
 
-#####################################
+
 #
 # Libraries Used
 #
@@ -14,7 +14,6 @@ random
 #
 time
 
-#####################################
 # Link to GitHub repository 
 #
 [Click Here](https://github.com/Senkroytz/Rockborne_Week5_Project.git)
@@ -29,7 +28,7 @@ time
 #
 3. LucasShea_Python_Game_Week5.ipynb - Interactive python notebook containing the game script
 #
-5. LucasShea_Video_Week5.mov - ~3 minute long video with a play through of the game
+4. LucasShea_Video_Week5.mov - ~3 minute long video with a play through of the game
 
 
 #####################################
